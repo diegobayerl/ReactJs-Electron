@@ -35,8 +35,6 @@ create a file called app.tsx:
 ```javascript
 import React from 'react';
 
-import Routes from './routes';
-
 function App(){
     return(
         <h1>Hello World</h1>
