@@ -1,13 +1,13 @@
 # 🚧 ReactJs-Electron template TypeScript 🚧
 
-🚀 Creating project with typescript and webpack:
+## 🚀 Creating project with typescript and webpack:
 
-## 🔭 If you want a project with configured routes, you can run the command in your project's folder:
+### 🔭 If you want a project with configured routes, you can run the command in your project's folder:
 
 ```
 git clone https://github.com/diegobayerl/ReactJs-Electron.git create-react-electron
 ```
-##  🔎 Or you can create from zero total:
+###  🔎 Or you can create from zero total:
 ```
 yarn create electron-app my-new-app --template=typescript-webpack
 ```
